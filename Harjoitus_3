@@ -1,0 +1,20 @@
+/*	Jani Kähkönen/H9575		
+	Harjoitus_3	19.9.2014	*/
+
+#include <iostream>
+using namespace std;
+
+void main()
+{
+	cout << "***************\n"
+		<< "**\n"
+		<< "* Jani *\n"
+		<< "* Kahkonen *\n"
+		<< "**\n"
+		<< "*-------------*\n"
+		<< "**\n"
+		<< "* Osoite *\n"
+		<< "* Postinumero Kaupunki *\n"
+		<< "**\n"
+		<< "***************\n";
+}
